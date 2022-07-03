@@ -1,0 +1,111 @@
+/* For selectiong everthing  */
+/* Lec- 69 */
+*{
+    color: pink;
+    background-color: rgb(147, 31, 223);
+}
+
+button{
+    font-size: 40px;
+}
+
+/* Combine more than 2 things  */
+h1,h2{
+    font-size: 40px;
+    color: blueviolet;
+}
+
+
+/* Lec - 70 */
+/* id put in html then */
+
+#search{
+    background-color: #d8e2dc;
+}
+
+
+#signup{
+    background-color: #ffe5d9;
+    
+}
+
+#Hey{
+    background-color: black;
+}
+
+
+/* Lec - 71 CSS SELECTOR */
+.post{
+    font-size: 10px;;
+}
+
+
+.post_class{
+    background-color: yellow;
+}
+
+
+/* Decesent selector Lec - 72*/
+/* in this scope we select element inside the element */
+section a {
+    color:blue;
+    font-size: 30px;
+}
+
+/* Adjecent selector  select only just immeditely by preceed by element */
+input + button {
+    background-color: black;
+}
+
+h2 + button {
+    background-color: blanchedalmond;
+    color: red;
+}
+
+footer > a {
+    color: yellow;
+}
+
+
+/* Attribute selecto r  lec - 74 */
+input[type="password"]{
+    color:red;
+    size: 3px;
+
+}
+
+/* Pseudo class lec 76 */
+.post button:hover{
+    background-color: red;
+    color: yellow;
+}
+
+.post button:active{
+    color: aqua;
+}
+
+.post:nth-of-type(3){
+    color: honeydew;
+}
+
+/* Test solution */
+/* WRITE YOUR CODE IN HERE!!!!  */
+.square:nth-of-type(n){
+    background-color:red;
+}
+.square:nth-of-type(2n){
+    background-color:black;
+}
+
+/*  Pseudo element lec- */
+h2::first-letter{
+    font-size: 50px;
+}
+
+/* order matter in css  */
+h1,h2{
+    color: yellow;
+}
+
+/* Inline css thats apply in the line so  */
+
