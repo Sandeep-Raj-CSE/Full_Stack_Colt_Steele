@@ -1,0 +1,81 @@
+/* Lec - 92 */
+/* section{
+    width: 700px;
+    height: 700px;
+    background-color: magenta;
+}
+
+#rgba{
+    width: 50%;
+    height: 50%;
+
+    background-color:rgba(255, 255,255, 0.75);
+}
+
+#opacity{
+    width: 40%;
+    height: 40%;
+
+    background-color:yellow;
+    opacity: 0.9;
+
+} */
+
+/* Lec 94 the Transition of div */
+
+/* .transition{
+    width: 300px;
+    height: 300px;
+    background-color: magenta;
+    border-radius: 50%;
+}
+
+.transition:hover{
+    background-color: cyan;
+}
+
+.transition1{
+    width: 300px;
+    height: 300px;
+    background-color: magenta;
+
+}
+
+.transition1:hover{
+    background-color: rgb(255, 0, 0);
+    border-radius: 50%;
+    transition: background-color 3s;
+    /* transition: 1s; */
+/*}
+
+
+#transition2{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(29, 154, 176);
+   
+} */
+
+/* Add an image background */
+
+/* section{
+    width: 80%;
+    height: 800px;
+    /* background-image: url(https://images.unsplash.com/photo-1657002774608-5f1914825a5c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDE0fGJvOGpRS1RhRTBZfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=600&q=60);
+    margin: auto 0;
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    ba */
+
+    /*background: center/cover url(https://images.unsplash.com/photo-1655890938539-7257cdd5ea34?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDExfDZzTVZqVExTa2VRfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=600&q=60);
+}*/
+/*h1{
+    font-size: 100px;
+    color: yellow;
+} */
+
+body{
+    font-family: 'Tiro Tamil', serif;
+}
+
